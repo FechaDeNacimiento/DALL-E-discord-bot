@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "openai": "^3.1.0"
+  },
+  "name": "dallebot",
+  "description": "\"# DALL.E-discord-bot\"",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FechaDeNacimiento/DALL.E-discord-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FechaDeNacimiento/DALL.E-discord-bot/issues"
+  },
+  "homepage": "https://github.com/FechaDeNacimiento/DALL.E-discord-bot#readme"
+}
